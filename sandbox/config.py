@@ -1,6 +1,6 @@
 vits_config = dict(
     # audio=audio_config,
-    run_name="vits_thorsten-voice",
+    # run_name="vits_thorsten-voice",
     batch_size=4,
     eval_batch_size=4,
     batch_group_size=5,
